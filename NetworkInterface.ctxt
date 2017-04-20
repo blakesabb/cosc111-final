@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NetworkInterface
+comment1.params=MAC_address
+comment1.target=NetworkInterface(java.lang.String)
+comment2.params=address
+comment2.target=boolean\ equals(java.lang.String)
+numComments=3
